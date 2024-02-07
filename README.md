@@ -40,14 +40,14 @@ Install the recommended driver automatically:
 
 ## Manuelle Installation
 
-Installieren Sie bei Bedarf einen spezifischen Treiber manuell:
+If necessary, install a specific driver manually:
 
 `sudo apt install nvidia-driver-xxx`
 
 
 ## Neustart
 
-Starten Sie das System neu, um die Treiberinstallation abzuschließen:
+Restart the system to complete the driver installation:
 
 `sudo reboot`
 
@@ -123,7 +123,7 @@ Add the CUDA repository and update:
 
 ## CUDA installieren
 
-Installieren Sie CUDA:
+Install CUDA:
 
 `sudo apt-get install -y cuda`
 
