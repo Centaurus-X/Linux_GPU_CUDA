@@ -150,7 +150,7 @@ TensorFlow test script
 
 Install TensorFlow and execute the following script:
 
-`pip install tensorflow`
+`python3 -m pip install tensorflow[and-cuda]`
 
 
 ```code
